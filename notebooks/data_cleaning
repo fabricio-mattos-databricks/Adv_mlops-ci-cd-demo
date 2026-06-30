@@ -6,7 +6,7 @@
     "application/vnd.databricks.v1+cell": {
      "cellMetadata": {},
      "inputWidgets": {},
-     "nuid": "14d37598-4cda-4783-8f84-99617cf51556",
+     "nuid": "fc1ebf96-a2ea-4dda-af78-c44b662aba24",
      "showTitle": false,
      "tableResultSettingsMap": {},
      "title": ""
@@ -28,7 +28,7 @@
     "application/vnd.databricks.v1+cell": {
      "cellMetadata": {},
      "inputWidgets": {},
-     "nuid": "050fd176-be80-47b8-8d3e-c5ded129fcfc",
+     "nuid": "a4955a56-5917-414d-8d00-04c04bdbb73c",
      "showTitle": false,
      "tableResultSettingsMap": {},
      "title": ""
@@ -45,7 +45,7 @@
     "application/vnd.databricks.v1+cell": {
      "cellMetadata": {},
      "inputWidgets": {},
-     "nuid": "45e876f9-c00c-4770-b44f-955c4736b436",
+     "nuid": "0e950369-cefa-4e39-8f6a-63d5e842d3ca",
      "showTitle": false,
      "tableResultSettingsMap": {},
      "title": ""
@@ -65,7 +65,7 @@
     "application/vnd.databricks.v1+cell": {
      "cellMetadata": {},
      "inputWidgets": {},
-     "nuid": "e349137e-4494-4536-af14-5e5c0fcd4dbd",
+     "nuid": "aaf81133-b77b-44f7-8192-9db7f32440fa",
      "showTitle": false,
      "tableResultSettingsMap": {},
      "title": ""
@@ -84,7 +84,7 @@
     "application/vnd.databricks.v1+cell": {
      "cellMetadata": {},
      "inputWidgets": {},
-     "nuid": "a9ba33b9-d155-4708-8f1a-66a722421dab",
+     "nuid": "3896c2c0-b261-4031-ae48-62f7d23cbe2c",
      "showTitle": false,
      "tableResultSettingsMap": {},
      "title": ""
@@ -102,7 +102,7 @@
     "application/vnd.databricks.v1+cell": {
      "cellMetadata": {},
      "inputWidgets": {},
-     "nuid": "2f6831f6-dd6b-4ddb-97b3-5351ef1f209f",
+     "nuid": "c0a11ac7-c9da-49c0-a002-9fcc448683c5",
      "showTitle": false,
      "tableResultSettingsMap": {},
      "title": ""
@@ -131,7 +131,7 @@
     "application/vnd.databricks.v1+cell": {
      "cellMetadata": {},
      "inputWidgets": {},
-     "nuid": "8ee78226-a99c-4d44-8b07-5a71f391513d",
+     "nuid": "0aec86e4-f7fc-4161-83c8-86fbb4d95633",
      "showTitle": false,
      "tableResultSettingsMap": {},
      "title": ""
@@ -158,7 +158,7 @@
     "application/vnd.databricks.v1+cell": {
      "cellMetadata": {},
      "inputWidgets": {},
-     "nuid": "8e262168-a983-4190-9365-e552ca6c9170",
+     "nuid": "b69116ab-8fd9-4281-bc11-92da174d51d7",
      "showTitle": false,
      "tableResultSettingsMap": {},
      "title": ""
@@ -183,7 +183,7 @@
     "application/vnd.databricks.v1+cell": {
      "cellMetadata": {},
      "inputWidgets": {},
-     "nuid": "7855cab9-b2e2-4645-9c2d-28916079ccb4",
+     "nuid": "439ae98a-94f0-434a-a917-c77549fad53e",
      "showTitle": false,
      "tableResultSettingsMap": {},
      "title": ""
@@ -206,7 +206,7 @@
     "application/vnd.databricks.v1+cell": {
      "cellMetadata": {},
      "inputWidgets": {},
-     "nuid": "ff25aa89-0370-4f4c-bcab-7e33b0bd5063",
+     "nuid": "85863d3b-d057-478d-b7b1-0ca7be1e2d65",
      "showTitle": false,
      "tableResultSettingsMap": {},
      "title": ""
@@ -226,7 +226,9 @@
    },
    "inputWidgetPreferences": null,
    "language": "python",
-   "notebookMetadata": {},
+   "notebookMetadata": {
+    "pythonIndentUnit": 4
+   },
    "notebookName": "data_cleaning",
    "widgets": {}
   },
